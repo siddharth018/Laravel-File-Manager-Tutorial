@@ -19,6 +19,8 @@ Link : https://ko-fi.com/realprogrammer
     Step third: Run server
 
     php artisan serve
+    
+    http://127.0.0.1:8000/filemanager
 
 Read More: 
 
